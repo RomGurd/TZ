@@ -1,0 +1,912 @@
+[
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 7,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 8,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 10,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 13,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 14,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 15,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    }
+]

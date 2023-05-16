@@ -1,0 +1,119 @@
+[
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "isElectronicBook": true,
+        "name": "Мастер и Маргарита",
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false,
+        "name": "1984",
+        "year": 1949
+    },
+    {
+        "author": "",
+        "id": 6,
+        "isElectronicBook": false,
+        "name": "Лолита",
+        "year": 1955
+    },
+    {
+        "author": "Иван Тургенев",
+        "id": "",
+        "isElectronicBook": false,
+        "name": "Отцы и дети",
+        "year": 1861
+    },
+    {
+        "author": "Антон Чехов",
+        "id": 8,
+        "isElectronicBook": "",
+        "name": "Палата 6",
+        "year": 1955
+    },
+    {
+        "author": "",
+        "id": 9,
+        "isElectronicBook": false,
+        "name": "",
+        "year": 1955
+    },
+    {
+        "author": "Федор Достоевский",
+        "id": 10,
+        "isElectronicBook": false,
+        "name": "Братья Карамазовы",
+        "year": ""
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 11,
+        "isElectronicBook": false,
+        "name": "Собачье сердце"
+    },
+    {
+        "author": "Николай Гоголь",
+        "id": 12,
+        "name": "Мёртвые души",
+        "year": 1842
+    },
+    {
+        "author": "Александр Пушкин",
+        "isElectronicBook": false,
+        "name": "Евгений Онегин",
+        "year": 1837
+    },
+    {
+        "id": 12,
+        "isElectronicBook": false,
+        "name": "Преступление и наказание",
+        "year": 1949
+    },
+    {
+        "name": "1984"
+    },
+    {
+        "name": ""
+    },
+    {
+        "name": "Шантарам"
+    },
+    {
+        "author": "Иван Тургенев",
+        "id": false,
+        "isElectronicBook": false,
+        "name": "Рудин",
+        "year": 1855
+    },
+    {
+        "author": "Артур Конан Дойль",
+        "id": 20,
+        "isElectronicBook": 12,
+        "name": "Приключения Шерлока Холмса",
+        "year": 1927
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 21,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": "Идиот"
+    },
+    {
+        "author": "Роберт Мартин",
+        "id": 22,
+        "isElectronicBook": false,
+        "name": "Чистый код",
+        "year": false
+    }
+]

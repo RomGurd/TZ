@@ -1,0 +1,36 @@
+[
+    {
+        "author": "Роберт Мартин",
+        "id": 3,
+        "isElectronicBook": false,
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "id": 4,
+        "year": 1967
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "id": 5,
+        "isElectronicBook": false
+    },
+    {
+        "author": "",
+        "isElectronicBook": false,
+        "year": 1955
+    },
+    {
+        "id": 3,
+        "isElectronicBook": false,
+        "year": 1998
+    },
+    {
+        "author": "Михаил Булгаков",
+        "isElectronicBook": true
+    },
+    {
+        "author": "Джордж Оруэлл",
+        "year": 1949
+    }
+]
